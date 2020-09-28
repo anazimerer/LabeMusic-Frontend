@@ -1,13 +1,13 @@
 Deploy: http://calculating-tendency.surge.sh/
 
-Informações importantes: 
+<h3>Informações importantes: </h3>
 
-- Pra rodar a aplicação você deve baixar o back-end e rodá-lo na sua máquina (ainda não está no AWS)
+__Pra rodar a aplicação você deve baixar o back-end e rodá-lo na sua máquina (ainda não está no AWS)
 
-<p> Login: 
- <p> username: astro4 
- <p> Senha: 123456
- <p> *você pode criar seu próprio cadastro 
+- Login: 
+ username: astro4 
+ Senha: 123456
+ __você pode criar seu próprio cadastro </p>
 
 - Criação de música:
   Para criar uma musica é pedido a url do vídeo da musica. É necessário adicionar a url com embed, dessa forma:
