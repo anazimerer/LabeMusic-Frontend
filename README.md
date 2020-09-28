@@ -4,7 +4,7 @@ Informações importantes:
 
 - Pra rodar a aplicação você deve baixar o back-end e rodá-lo na sua máquina (ainda não está no AWS)
 
-- Login: 
+Login: 
  <p> Login: astro4
  <p> Senha: 123456
  <p> *você pode criar seu próprio cadastro 
