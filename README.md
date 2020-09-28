@@ -8,7 +8,7 @@ Deploy: http://calculating-tendency.surge.sh/
 
 - Criação de música:
   Para criar uma musica é pedido a url do vídeo da musica. É necessário adicionar a url com embed, dessa forma:
-  _youtube/embed/askjsdasdjjkda_
+  _www.youtube/embed/askjsdasdjjkda_
 
 - Existe um bug na biblioteca de musicas que as vezes não carrega a página com todas as musicas, porém é só atualizar a página que dá certo
 
